@@ -9,4 +9,3 @@ Based on Unity tutorial - Roll a Ball Game with updates
 - added counting 
 - added movable collection facilities
 
-Translated with www.DeepL.com/Translator (free version)
